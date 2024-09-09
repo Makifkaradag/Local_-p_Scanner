@@ -1,11 +1,4 @@
-print("""
-| ========================================== |
-|   LOCAL IP ADDRESS SCANNER                 |
-|                                            |
-|   mail  ==> cyberbos@protonmail.com        |   
-|    github ==>  github.com/securtie54       |   
-| ========================================== |  
-""")
+
 
 # -*- coding: utf-8 -*-
 import os
